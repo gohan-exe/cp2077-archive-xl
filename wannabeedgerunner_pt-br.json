@@ -1,0 +1,268 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.6.0-nightly.2022-03-24",
+    "WKitJsonVersion": "0.0.1",
+    "GameVersion": 1500,
+    "ExportedDateTime": "2022-03-27T09:06:47.1077346Z",
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "Type": "JsonResource",
+      "Properties": {
+        "cookingPlatform": "PLATFORM_PC",
+        "root": {
+          "HandleId": "0",
+          "Data": {
+            "Type": "localizationPersistenceOnScreenEntries",
+            "Properties": {
+              "entries": [
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Ripper-Med",
+                    "femaleVariant": "Neuro Bloqueadores"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Ripper-Med-Desc",
+                    "femaleVariant": "Remove efeitos psicóticos e impede que pontos de humanidade sejam perdidas enquanto ativa."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Low-Humanity",
+                    "femaleVariant": "Baixa Humanidade"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Low-Humanity-Desc",
+                    "femaleVariant": "Seu dano crítico é diminuido por causa de Humanidade baixa, tome Neuro Bloqueadores ou vá descansar."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Pre-Psychosis",
+                    "femaleVariant": "Pré-Psicose"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Pre-Psychosis-Desc",
+                    "femaleVariant": "Sua chance crítica é diminuido por causa de Humanidade baixa, tome Neuro Bloqueadores ou vá descansar."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Cyberpsychosis",
+                    "femaleVariant": "Ciberpsicose"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Cyberpsychosis-Desc",
+                    "femaleVariant": "Cyberpsycho em fúria! Aumenta drasticamente sua regeneração de saúde, armadura e velocidade de movimento."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Humanity",
+                    "femaleVariant": "Humanidade"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Humanity-Cost",
+                    "femaleVariant": "Custo de Humanidade"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Humanity-Pool",
+                    "femaleVariant": "Base Humanidade"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Humanity-Pool-Desc",
+                    "femaleVariant": "Quantidade base de pontos de Humanidade que seu personagem possui."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Glitches-Threshold",
+                    "femaleVariant": "Limite de falhas"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Glitches-Threshold-Desc",
+                    "femaleVariant": "O primeiro limite de pontos de Humanidade que dá ao seu personagem um leve debuff e falhas visuais."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Psychosis-Threshold",
+                    "femaleVariant": "Limite de pré-psicose"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Psychosis-Threshold-Desc",
+                    "femaleVariant": "O segundo limite de pontos de Humanidade que dá ao seu personagem um debuff e efeitos visuais mais fortes, também pode desencadear a Ciberpsicose com uma probabilidade definida abaixo."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Check-Period",
+                    "femaleVariant": "Período de verificação da ciberpsicose (minutos)"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Check-Period-Desc",
+                    "femaleVariant": "O efeito pré-psicose também lança verificações periódicas e probabilísticas de ciberpsicose; esta opção define esse período de verificações."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Check-Probability",
+                    "femaleVariant": "Chance de ciberpsicose (porcentagens)"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Check-Probability-Desc",
+                    "femaleVariant": "O efeito pré-psicose também lança verificações periódicas e probabilísticas de ciberpsicose; esta opção define a chance do efeito Cyberpsychosis ser aplicado ao seu personagem."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Wanted-Level",
+                    "femaleVariant": "Nível de procurado"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Wanted-Level-Desc",
+                    "femaleVariant": "Define o nível inicial de procurado da polícia na ativação da ciberpsicose."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Implants-Cost",
+                    "femaleVariant": "Custo de Humanidade - Implantes"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Implants-Cost-Desc",
+                    "femaleVariant": "Define o custo de Humanidade para este tipo de implante."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Implants-Usage-Cost",
+                    "femaleVariant": "Custo Humanitário - Ativação de Implantes"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Implants-Usage-Cost-Desc",
+                    "femaleVariant": "Define Humanity Cost para uso icônico de cyberware (Frenesi e Sandevistan)."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Quality",
+                    "femaleVariant": "Custo de humanidade - Multiplicador de qualidade"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Quality-Desc",
+                    "femaleVariant": "Define o multiplicador adicional para os implantes de custo de Humanidade com base na qualidade do implante."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Murders",
+                    "femaleVariant": "Custo da Humanidade - Assassinatos"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Murders-Desc",
+                    "femaleVariant": "Define a perda de Humanidade para cada assassinato cometido."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Murders-Other-Desc",
+                    "femaleVariant": "Define a perda de Humanidade por matar outros inimigos que não pertencem às categorias acima."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Humanity-Desc",
+                    "femaleVariant": "Cada vez que você adiciona um aprimoramento cibernético, há uma perda correspondente de humanidade. Além disso, você perderá a humanidade para cada assassinato cometido e depois de usar Berserk ou Sandevistan.\\nBaixa Humanidade causa algumas penalidades de estatísticas e pode desencadear a Ciberpsicose."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Trigger-Zero",
+                    "femaleVariant": "Sempre ativa em zero Humanidade."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Edg-Trigger-Zero-Desc",
+                    "femaleVariant": "Se esta opção estiver habilitada, a Ciberpsicose sempre será acionada quando a Humanidade atingir o valor zero."
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}
